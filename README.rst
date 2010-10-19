@@ -37,7 +37,7 @@ It would be super cool if it took advantage of JS for drag&drop of widgets.
 Right now I'm most influenced by the `Exponent CMS
 <http://exponentframework.org/>`_ form module, which looks like this:
 
-.. image:: raw/master/img/exp_formeditor.png
+.. image:: evregapp/raw/master/img/exp_formeditor.png
 
 Every widget has icons for actions, which include editing the widget settings,
 deletion and movement of the widget. (Moving the widgets without page refresh -
