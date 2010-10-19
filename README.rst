@@ -10,8 +10,8 @@ Features
 
 +	Form designer (be able to create forms without coding).
 
-	+	Maybe reuse some widget library, like `ToscaWidgets
-	<http://toscawidgets.org/>`_?
+	+	Maybe reuse some widget library, like 
+		`ToscaWidgets <http://toscawidgets.org/>`_?
 +	Form reuse (be able to clone existing forms and edit them).
 +	Get user information from an existing database (e.g. a website CMS
 	database). Probably use `SQLAlchemy <http://www.sqlalchemy.org/>`_?
